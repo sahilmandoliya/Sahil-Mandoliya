@@ -1,10 +1,9 @@
 
-#  Hi there, I'm Sahil Mandoliya 👋
+#  Hi, I'm Sahil Mandoliya 👋
 
-## I'm a Student, Developer, and Youtuber!! 😁
+## Currently a Student, Developer, and Youtuber!! 😁
 
--  Learning and Growing 
--  2021 Goals: Contribute more to Open Source projects
+-  Learning and Growing
 
 ### Connect with me:
 
