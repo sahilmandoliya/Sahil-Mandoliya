@@ -41,6 +41,6 @@
 ---
 
 [twitter]: https://twitter.com/sahilmandoliya
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://youtube.com/Phonly
 [instagram]: https://instagram.com/sahilmandoliya
 [linkedin]: https://linkedin.com/in/sahilmandoliya
