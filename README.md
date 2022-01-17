@@ -5,7 +5,7 @@
 
 -  Learning and Growing
 
-<table><tr><td valign="top" align ="center" width="33%">
+<table><tr><td valign="top" width="20%">
 <h3 align="center">Programming Languages</h3>
 <p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c" width="40" height="40"/> </a>
    <a href="https://en.wikipedia.org/wiki/C%2B%2B" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="40" height="40"/> </a> <a href="https://www.python.org" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.python.org" > <img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" alt="java" width="40" height="40"/> </a></p>
@@ -20,7 +20,7 @@
 <h3 align="center">Other</h3>
 <p align="center"> <a href="https://git-scm.com/" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  </p>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="20%">
 <h3 align="center">Backend Development</h3>
 <p align="center"> <a href="https://nodejs.org" > <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" > <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="express" width="40" height="40"/> </a> </p>
 
