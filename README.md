@@ -11,7 +11,7 @@
    <a href="https://en.wikipedia.org/wiki/C%2B%2B" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="50" height="50"/> </a> <a href="https://www.python.org" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a href="https://www.python.org" > <img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" alt="java" width="50" height="50"/> </a></p>
   
 <h3 align="center">IDEs/Editor</h3>
-<p align="center"> <a href="https://codepen.io/" > <img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="codepen" width="40" height="40"/> </a> <a href="https://jupyter.org/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" alt="jupyter notebook" width="40" height="40"/> <a href="https://code.visualstudio.com/" > <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a> <a href="https://replit.com/" > <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="replit" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://code.visualstudio.com/" > <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a> <a href="https://replit.com/" > <img src="https://www.sublimehq.com/images/sublime_text.png" alt="sublime" width="40" height="40"/> </a> </p>
   
 </td><td valign="top" width="33%">
 <h3 align="center">Frontend Development</h3>
