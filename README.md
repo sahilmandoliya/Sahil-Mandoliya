@@ -5,7 +5,7 @@
 
 -  Learning and Growing
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" align ="center" width="33%">
 <h3 align="center">Programming Languages</h3>
 <p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c" width="50" height="50"/> </a>
    <a href="https://en.wikipedia.org/wiki/C%2B%2B" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="50" height="50"/> </a> <a href="https://www.python.org" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a href="https://www.python.org" > <img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" alt="java" width="50" height="50"/> </a></p>
