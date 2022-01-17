@@ -7,8 +7,8 @@
 
 <table><tr><td valign="top" align ="center" width="33%">
 <h3 align="center">Programming Languages</h3>
-<p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c" width="50" height="50"/> </a>
-   <a href="https://en.wikipedia.org/wiki/C%2B%2B" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="50" height="50"/> </a> <a href="https://www.python.org" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a href="https://www.python.org" > <img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" alt="java" width="50" height="50"/> </a></p>
+<p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c" width="40" height="40"/> </a>
+   <a href="https://en.wikipedia.org/wiki/C%2B%2B" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="40" height="40"/> </a> <a href="https://www.python.org" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.python.org" > <img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" alt="java" width="40" height="40"/> </a></p>
   
 <h3 align="center">IDEs/Editor</h3>
 <p align="center"> <a href="https://code.visualstudio.com/" > <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a> <a href="https://replit.com/" > <img src="https://www.sublimehq.com/images/sublime_text.png" alt="sublime" width="40" height="40"/> </a> </p>
