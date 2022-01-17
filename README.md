@@ -17,9 +17,6 @@
 </td><td valign="top" width="20%">
 <h3 align="center">Other</h3>
 <p align="center"> <a href="https://git-scm.com/" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" > <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a> <a href="https://replit.com/" > <img src="https://www.sublimehq.com/images/sublime_text.png" alt="sublime" width="40" height="40"/> </a> </p>
-
-<h3 align="center">Database & Testing</h3>
-<p align="center"> <a href="https://www.mongodb.com/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" > <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mongodb" width="40" height="40"/> </a> </p>
   
 </td></tr></table>
 
