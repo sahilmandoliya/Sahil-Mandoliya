@@ -5,9 +5,11 @@
 
 -  Learning and Growing
 
-### 🤝 Connect with me: <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/sahilmandoliya/"><img align="left" src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" alt="Sahil Mandoliya | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/sahilmandoliya"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="Sahil Mandoliya | Instagram" width="21px"/></a>
+<a href="https://twitter.com/sahilmandoliya"><img align="left" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="Sahil Mandoliya | Twitter" width="21px"/></a>
 </br>
 
 <table><tr><td valign="top" width="25%">
