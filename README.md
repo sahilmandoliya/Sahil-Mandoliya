@@ -12,8 +12,6 @@
 <a href="https://twitter.com/sahilmandoliya"><img align="left" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="Sahil Mandoliya | Twitter" width="40px"/></a>
 <a href="https://codeforces.com/users/sahilmandoliya"><img align="left" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="Sahil Mandoliya | Codechef" width="40px"/></a>
 <a href="https://www.codeforces.com/profile/sahilmandoliya"><img align="left" src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY" alt="Sahil Mandoliya | Codeforces" width="40px"/></a>
-<a href="https://instagram.com/sahilmandoliya"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="Sahil Mandoliya | Instagram" width="40px"/></a>
-<a href="https://twitter.com/sahilmandoliya"><img align="left" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="Sahil Mandoliya | Twitter" width="40px"/></a>
 </br>
 </br>
 
