@@ -10,8 +10,8 @@
 <a href="https://www.linkedin.com/in/sahilmandoliya/"><img align="left" src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" alt="Sahil Mandoliya | LinkedIn" width="40px"/></a>
 <a href="https://instagram.com/sahilmandoliya"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="Sahil Mandoliya | Instagram" width="40px"/></a>
 <a href="https://twitter.com/sahilmandoliya"><img align="left" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="Sahil Mandoliya | Twitter" width="40px"/></a>
-<a href="https://instagram.com/sahilmandoliya"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="Sahil Mandoliya | Instagram" width="40px"/></a>
-<a href="https://www.codechef.com/users/sahilmandoliya"><img align="left" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="Sahil Mandoliya | Twitter" width="40px"/></a>
+<a href="https://codeforces.com/users/sahilmandoliya"><img align="left" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="Sahil Mandoliya | Codechef" width="40px"/></a>
+<a href="https://www.codeforces.com/profile/sahilmandoliya"><img align="left" src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY" alt="Sahil Mandoliya | Codeforces" width="40px"/></a>
 <a href="https://instagram.com/sahilmandoliya"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="Sahil Mandoliya | Instagram" width="40px"/></a>
 <a href="https://twitter.com/sahilmandoliya"><img align="left" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="Sahil Mandoliya | Twitter" width="40px"/></a>
 </br>
@@ -26,7 +26,7 @@
 <h3 align="center">Frontend & Backend Development</h3>
 <p align="center"> <a href="https://www.w3schools.com/css/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://reactjs.org/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <a href="https://jquery.com/" > <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="40" height="40"/> </a> <a href="https://getbootstrap.com" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://nodejs.org" > <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" > <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="express" width="40" height="40"/> </a>  </p>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="30%">
 <h3 align="center">Other</h3>
 <p align="center"> <a href="https://git-scm.com/" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" > <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a> <a href="https://replit.com/" > <img src="https://www.sublimehq.com/images/sublime_text.png" alt="sublime" width="40" height="40"/> </a> </p>
   
