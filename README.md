@@ -5,6 +5,13 @@
 
 -  Learning and Growing
 
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+</br>
+
 <table><tr><td valign="top" width="25%">
 <h3 align="center">Programming Languages</h3>
 <p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c" width="40" height="40"/> </a>
