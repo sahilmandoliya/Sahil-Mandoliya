@@ -1,7 +1,7 @@
 
 #  Hi, I'm Sahil Mandoliya 👋
 
-## Currently a Student, Developer, and Youtuber!! 😁
+## Currently a Student, Developer, and Youtuber! 😁
 
 -  Learning and Growing
 
