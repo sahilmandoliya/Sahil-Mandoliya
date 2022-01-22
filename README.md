@@ -3,8 +3,6 @@
 
 ## Currently a Student, Developer, and Youtuber! 😁
 
--  Learning and Growing
-
 ### 🤝 Connect with me:
  
 <a href="https://www.linkedin.com/in/sahilmandoliya/"><img align="left" src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" alt="Sahil Mandoliya | LinkedIn" width="40px"/></a>
