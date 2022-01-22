@@ -3,7 +3,7 @@
 
 ## Currently a Student, Developer, and Youtuber! 😁
 
-### 🤝 Connect with me:
+### 🤝 Connect with me on:
  
 <a href="https://www.linkedin.com/in/sahilmandoliya/"><img align="left" src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" alt="Sahil Mandoliya | LinkedIn" width="40px"/></a>
 <a href="https://instagram.com/sahilmandoliya"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="Sahil Mandoliya | Instagram" width="40px"/></a>
