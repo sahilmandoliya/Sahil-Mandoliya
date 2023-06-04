@@ -7,9 +7,8 @@
 👨‍💻 &nbsp;I am currently working at Times Internet as Software Engineer Intern.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at the THDC IHET, Tehri.\
-✍️ &nbsp;In my free time, I make Tech videos & write Tech blogs phonly.in .\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at mandoliyasahil@gmail.com! I'll try to respond as soon as I can.\
+✍️ &nbsp;In my free time, I make tech videos.\
+✉️ &nbsp;For some interesting discussion, can shoot me an email at mandoliyasahil@gmail.com! I'll try to respond as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
