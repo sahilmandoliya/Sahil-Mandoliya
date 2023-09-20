@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am currently working at Times Internet as Software Engineer Intern.\
+👨‍💻 &nbsp;I am currently working at Times Internet as Software Engineer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at the THDC IHET, Tehri.\
 ✍️ &nbsp;In my free time, I make tech videos.\
