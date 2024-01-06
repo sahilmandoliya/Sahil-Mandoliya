@@ -10,9 +10,6 @@
 ✍️ &nbsp;In my free time, I make tech videos.\
 ✉️ &nbsp;For some interesting discussion, can shoot me an email at mandoliyasahil@gmail.com! I'll try to respond as soon as I can.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31f2nx7hy6qwet3wmdmj7m7brlyy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -29,6 +26,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31f2nx7hy6qwet3wmdmj7m7brlyy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 [![@sahil's Holopin board](https://holopin.me/sahilmandoliya)](https://holopin.io/@sahilmandoliya)
 
