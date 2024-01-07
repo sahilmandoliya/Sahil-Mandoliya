@@ -2,8 +2,6 @@
 
 ## 👋 &nbsp;Hey there! I'm Sahil
 
-### 👨🏻‍💻 &nbsp;About Me
-
 👨‍💻 &nbsp;I am currently working at Times Internet as Software Engineer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I did B. Tech CSE at THDC IHET, Tehri.\
