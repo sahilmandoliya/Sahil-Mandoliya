@@ -6,7 +6,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I did B. Tech CSE at THDC IHET, Tehri.\
 ✍️ &nbsp;I also make tech videos at https://youtube.com/phonly .\
-✉️ &nbsp;For some interesting discussion, can shoot me an email at mandoliyasahil@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;For some interesting discussion, can shoot me an email at mandoliyasahil[at]gmail[dot]com! I'll try to respond as soon as I can.
 
 
 Tech Stack                     | Currently Listening to
