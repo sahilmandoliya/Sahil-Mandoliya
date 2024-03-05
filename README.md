@@ -2,11 +2,9 @@
 
 ## 👋 &nbsp;Hey there! I'm Sahil
 
-👨‍💻 &nbsp;I am currently working at Times Internet as Software Engineer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I did B. Tech CSE at THDC IHET, Tehri.\
-✍️ &nbsp;I also make tech videos at https://youtube.com/phonly .\
-✉️ &nbsp;For some interesting discussion, can shoot me an email at mandoliyasahil[at]gmail[dot]com! I'll try to respond as soon as I can.
+I'm a Software Engineer at Times Internet, and I'm all about diving into the latest tech trends and crafting cool software solutions and hacks. I studied Computer Science at THDC IHET, Tehri, Uttarakhand, India.
+When I'm not coding away, you can find me sharing tech tips and tricks on my YouTube channel, Phonly. Whether you're into coding or just curious about the latest gadgets, I've got something for you!
+Want to chat about tech or bounce around some ideas? Shoot me an email at mandoliyasahil[at]gmail[dot]com. I'm always down for a good conversation! 🚀
 
 
 Tech Stack & Tools             | Currently Listening to
