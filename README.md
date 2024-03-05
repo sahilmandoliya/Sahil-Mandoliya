@@ -2,9 +2,12 @@
 
 ## 👋 &nbsp;Hey there! I'm Sahil
 
-I'm a Software Engineer at Times Internet, and I'm all about diving into the latest tech trends and crafting cool software solutions and hacks. I studied Computer Science at THDC IHET, Tehri, Uttarakhand, India.
-When I'm not coding away, you can find me sharing tech tips and tricks on my YouTube channel, Phonly. Whether you're into coding or just curious about the latest gadgets, I've got something for you!
-Want to chat about tech or bounce around some ideas? Shoot me an email at mandoliyasahil[at]gmail[dot]com. I'm always down for a good conversation! 🚀
+👨‍💻 **Software Engineer at Times Internet**  
+💡 Passionate about exploring new technologies and crafting software solutions and quick hacks.  
+🎓 B.Tech in Computer Science from THDC IHET, Tehri.  
+✍️ Tech videos at [Phonly](https://youtube.com/phonly).  
+✉️ Shoot me an email at mandoliyasahil[at]gmail[dot]com for interesting discussions!
+
 
 
 Tech Stack & Tools             | Currently Listening to
