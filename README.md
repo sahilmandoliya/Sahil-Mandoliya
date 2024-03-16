@@ -6,7 +6,7 @@
 💡 Passionate about exploring new technologies and crafting software solutions and quick hacks.  
 🎓 B.Tech in Computer Science from THDC IHET, Tehri.  
 ✍️ Tech videos at [Phonly](https://youtube.com/phonly).  
-✉️ Shoot me an email at mandoliyasahil[at]gmail[dot]com for interesting discussions!
+✉️ Drop me an email at mandoliyasahil[at]gmail[dot]com for interesting discussions!
 
 
 
