@@ -2,7 +2,7 @@
 
 ## 👋 &nbsp;Hey there! I'm Sahil
 
-👨‍💻 **Software Engineer at Times Internet**  
+👨‍💻 **Software Engineer at Increff, previously at Times Internet**  
 💡 Passionate about exploring new technologies and crafting software solutions and quick hacks.  
 🎓 B.Tech in Computer Science from THDC IHET, Tehri.  
 ✍️ I make Tech videos at [Phonly](https://youtube.com/phonly).  
